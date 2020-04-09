@@ -1,0 +1,49 @@
+#parent {
+    display: table;
+    width: 100%;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bolder;
+    font-size: large;
+}
+#form_login {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+    position: relative;
+}
+ #label{
+     font-family: "Times New Roman", Times, serif;
+     font-size: 100px;
+     font-weight: bolder;
+     text-align: center;
+}
+#submitbutton{
+    background-color: mediumpurple;
+    border: none;
+    color: black;
+    padding: 5px 80px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+}
+#password{
+    padding: 5px 60px;
+}
+#userid{
+    padding: 5px 60px;
+}
+ #footer {
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     background-color: grey;
+     color: white;
+     text-align: center;
+ }
+#fieldset{
+    background-color: grey;
+}
+
